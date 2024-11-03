@@ -1,8 +1,5 @@
 # Visualization Module for Python (Supporting Visually Impaired Users)
 
-![image](https://github.com/user-attachments/assets/7a6705ab-8245-47ed-95c7-150e28eee3db)
-The image above provides a visual example of how the Visualization module works
-
 Welcome to the **Visualization** module, an interactive tool designed to help visually impaired individuals better understand data structures and programming concepts through visual and tactile representations. This project is part of a larger effort to create accessible educational content for Python learners.
 
 ## About the Project
